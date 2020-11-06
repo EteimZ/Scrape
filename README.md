@@ -11,10 +11,10 @@ There are also stand-alone scripts, which demonstrates a simple principle.
 
 
 ## Tools
-* [Scrapethissite](https://scrapethissite.com): this websites contains sandboxes for practicing web scraping.
+* [Scrapethissite](https://scrapethissite.com): This websites contains sandboxes for practicing web scraping.
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/ "Documentation"): Python Library for html parsing.
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_html.html "pandas.read_html Documentation"): Pandas has an incredible parser, for getting tables from websites.
-* [Requests](https://requests.readthedocs.io/en/master/ "Documentation"): Python Library for send/recieving http requests.
+* [Requests](https://requests.readthedocs.io/en/master/ "Documentation"): Python Library for sending/recieving http requests.
 
 ## TODO
 * Push Hockey Script.

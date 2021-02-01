@@ -1,0 +1,93 @@
+[
+  {
+    "nominations": 7, 
+    "title": "Argo", 
+    "awards": 3, 
+    "best_picture": true, 
+    "year": 2012
+  }, 
+  {
+    "nominations": 11, 
+    "title": "Life of Pi", 
+    "awards": 4, 
+    "year": 2012
+  }, 
+  {
+    "nominations": 8, 
+    "title": "Les Mis\u00e9rables", 
+    "awards": 3, 
+    "year": 2012
+  }, 
+  {
+    "nominations": 12, 
+    "title": "Lincoln", 
+    "awards": 2, 
+    "year": 2012
+  }, 
+  {
+    "nominations": 5, 
+    "title": "Django Unchained", 
+    "awards": 2, 
+    "year": 2012
+  }, 
+  {
+    "nominations": 5, 
+    "title": "Skyfall", 
+    "awards": 2, 
+    "year": 2012
+  }, 
+  {
+    "nominations": 8, 
+    "title": "Silver Linings Playbook", 
+    "awards": 1, 
+    "year": 2012
+  }, 
+  {
+    "nominations": 5, 
+    "title": "Zero Dark Thirty", 
+    "awards": 1, 
+    "year": 2012
+  }, 
+  {
+    "nominations": 5, 
+    "title": "Amour", 
+    "awards": 1, 
+    "year": 2012
+  }, 
+  {
+    "nominations": 4, 
+    "title": "Anna Karenina", 
+    "awards": 1, 
+    "year": 2012
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Paperman", 
+    "awards": 1, 
+    "year": 2012
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Brave", 
+    "awards": 1, 
+    "year": 2012
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Searching for Sugar Man", 
+    "awards": 1, 
+    "year": 2012
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Inocente", 
+    "awards": 1, 
+    "year": 2012
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Curfew", 
+    "awards": 1, 
+    "year": 2012
+  }
+]

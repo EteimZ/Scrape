@@ -1,0 +1,99 @@
+[
+  {
+    "nominations": 9, 
+    "title": "Birdman", 
+    "awards": 4, 
+    "best_picture": true, 
+    "year": 2014
+  }, 
+  {
+    "nominations": 9, 
+    "title": "The Grand Budapest Hotel", 
+    "awards": 4, 
+    "year": 2014
+  }, 
+  {
+    "nominations": 5, 
+    "title": "Whiplash", 
+    "awards": 3, 
+    "year": 2014
+  }, 
+  {
+    "nominations": 8, 
+    "title": "The Imitation Game", 
+    "awards": 1, 
+    "year": 2014
+  }, 
+  {
+    "nominations": 6, 
+    "title": "American Sniper", 
+    "awards": 1, 
+    "year": 2014
+  }, 
+  {
+    "nominations": 6, 
+    "title": "Boyhood", 
+    "awards": 1, 
+    "year": 2014
+  }, 
+  {
+    "nominations": 5, 
+    "title": "Interstellar", 
+    "awards": 1, 
+    "year": 2014
+  }, 
+  {
+    "nominations": 5, 
+    "title": "The Theory of Everything", 
+    "awards": 1, 
+    "year": 2014
+  }, 
+  {
+    "nominations": 2, 
+    "title": "Ida", 
+    "awards": 1, 
+    "year": 2014
+  }, 
+  {
+    "nominations": 2, 
+    "title": "Selma", 
+    "awards": 1, 
+    "year": 2014
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Citizenfour", 
+    "awards": 1, 
+    "year": 2014
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Big Hero 6", 
+    "awards": 1, 
+    "year": 2014
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Crisis Hotline: Veterans Press 1", 
+    "awards": 1, 
+    "year": 2014
+  }, 
+  {
+    "nominations": 1, 
+    "title": "The Phone Call", 
+    "awards": 1, 
+    "year": 2014
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Still Alice", 
+    "awards": 1, 
+    "year": 2014
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Feast", 
+    "awards": 1, 
+    "year": 2014
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "nominations": 6, 
+    "title": "Spotlight  ", 
+    "awards": 2, 
+    "best_picture": true, 
+    "year": 2015
+  }, 
+  {
+    "nominations": 10, 
+    "title": "Mad Max: Fury Road ", 
+    "awards": 6, 
+    "year": 2015
+  }, 
+  {
+    "nominations": 12, 
+    "title": "The Revenant   ", 
+    "awards": 3, 
+    "year": 2015
+  }, 
+  {
+    "nominations": 6, 
+    "title": "Bridge of Spies", 
+    "awards": 1, 
+    "year": 2015
+  }, 
+  {
+    "nominations": 5, 
+    "title": "The Big Short  ", 
+    "awards": 1, 
+    "year": 2015
+  }, 
+  {
+    "nominations": 4, 
+    "title": "The Danish Girl", 
+    "awards": 1, 
+    "year": 2015
+  }, 
+  {
+    "nominations": 4, 
+    "title": "Room   ", 
+    "awards": 1, 
+    "year": 2015
+  }, 
+  {
+    "nominations": 2, 
+    "title": "Ex Machina ", 
+    "awards": 1, 
+    "year": 2015
+  }, 
+  {
+    "nominations": 2, 
+    "title": "The Hateful Eight  ", 
+    "awards": 1, 
+    "year": 2015
+  }, 
+  {
+    "nominations": 2, 
+    "title": "Inside Out ", 
+    "awards": 1, 
+    "year": 2015
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Amy", 
+    "awards": 1, 
+    "year": 2015
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Bear Story ", 
+    "awards": 1, 
+    "year": 2015
+  }, 
+  {
+    "nominations": 1, 
+    "title": "A Girl in the River: The Price of Forgiveness  ", 
+    "awards": 1, 
+    "year": 2015
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Son of Saul", 
+    "awards": 1, 
+    "year": 2015
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Spectre", 
+    "awards": 1, 
+    "year": 2015
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Stutterer  ", 
+    "awards": 1, 
+    "year": 2015
+  }
+]

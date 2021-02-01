@@ -1,0 +1,81 @@
+[
+  {
+    "nominations": 12, 
+    "title": "The King's Speech", 
+    "awards": 4, 
+    "best_picture": true, 
+    "year": 2010
+  }, 
+  {
+    "nominations": 8, 
+    "title": "Inception", 
+    "awards": 4, 
+    "year": 2010
+  }, 
+  {
+    "nominations": 8, 
+    "title": "The Social Network", 
+    "awards": 3, 
+    "year": 2010
+  }, 
+  {
+    "nominations": 7, 
+    "title": "The Fighter", 
+    "awards": 2, 
+    "year": 2010
+  }, 
+  {
+    "nominations": 5, 
+    "title": "Toy Story 3", 
+    "awards": 2, 
+    "year": 2010
+  }, 
+  {
+    "nominations": 3, 
+    "title": "Alice in Wonderland", 
+    "awards": 2, 
+    "year": 2010
+  }, 
+  {
+    "nominations": 5, 
+    "title": "Black Swan", 
+    "awards": 1, 
+    "year": 2010
+  }, 
+  {
+    "nominations": 1, 
+    "title": "In a Better World", 
+    "awards": 1, 
+    "year": 2010
+  }, 
+  {
+    "nominations": 1, 
+    "title": "The Lost Thing", 
+    "awards": 1, 
+    "year": 2010
+  }, 
+  {
+    "nominations": 1, 
+    "title": "God of Love", 
+    "awards": 1, 
+    "year": 2010
+  }, 
+  {
+    "nominations": 1, 
+    "title": "The Wolfman", 
+    "awards": 1, 
+    "year": 2010
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Strangers No More", 
+    "awards": 1, 
+    "year": 2010
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Inside Job", 
+    "awards": 1, 
+    "year": 2010
+  }
+]

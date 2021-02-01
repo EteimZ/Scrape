@@ -1,0 +1,75 @@
+[
+  {
+    "nominations": 9, 
+    "title": "12 Years a Slave", 
+    "awards": 3, 
+    "best_picture": true, 
+    "year": 2013
+  }, 
+  {
+    "nominations": 10, 
+    "title": "Gravity", 
+    "awards": 7, 
+    "year": 2013
+  }, 
+  {
+    "nominations": 6, 
+    "title": "Dallas Buyers Club", 
+    "awards": 3, 
+    "year": 2013
+  }, 
+  {
+    "nominations": 2, 
+    "title": "Frozen", 
+    "awards": 2, 
+    "year": 2013
+  }, 
+  {
+    "nominations": 2, 
+    "title": "The Great Gatsby", 
+    "awards": 2, 
+    "year": 2013
+  }, 
+  {
+    "nominations": 5, 
+    "title": "Her", 
+    "awards": 1, 
+    "year": 2013
+  }, 
+  {
+    "nominations": 3, 
+    "title": "Blue Jasmine", 
+    "awards": 1, 
+    "year": 2013
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Mr Hublot", 
+    "awards": 1, 
+    "year": 2013
+  }, 
+  {
+    "nominations": 1, 
+    "title": "The Lady in Number 6: Music Saved My Life", 
+    "awards": 1, 
+    "year": 2013
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Helium", 
+    "awards": 1, 
+    "year": 2013
+  }, 
+  {
+    "nominations": 1, 
+    "title": "The Great Beauty", 
+    "awards": 1, 
+    "year": 2013
+  }, 
+  {
+    "nominations": 1, 
+    "title": "20 Feet from Stardom", 
+    "awards": 1, 
+    "year": 2013
+  }
+]

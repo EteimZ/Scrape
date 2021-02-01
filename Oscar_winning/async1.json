@@ -1,0 +1,93 @@
+[
+  {
+    "nominations": 10, 
+    "title": "The Artist", 
+    "awards": 5, 
+    "best_picture": true, 
+    "year": 2011
+  }, 
+  {
+    "nominations": 11, 
+    "title": "Hugo", 
+    "awards": 5, 
+    "year": 2011
+  }, 
+  {
+    "nominations": 2, 
+    "title": "The Iron Lady", 
+    "awards": 2, 
+    "year": 2011
+  }, 
+  {
+    "nominations": 5, 
+    "title": "The Descendants", 
+    "awards": 1, 
+    "year": 2011
+  }, 
+  {
+    "nominations": 5, 
+    "title": "The Girl with the Dragon Tattoo", 
+    "awards": 1, 
+    "year": 2011
+  }, 
+  {
+    "nominations": 4, 
+    "title": "Midnight in Paris", 
+    "awards": 1, 
+    "year": 2011
+  }, 
+  {
+    "nominations": 4, 
+    "title": "The Help", 
+    "awards": 1, 
+    "year": 2011
+  }, 
+  {
+    "nominations": 2, 
+    "title": "A Separation", 
+    "awards": 1, 
+    "year": 2011
+  }, 
+  {
+    "nominations": 1, 
+    "title": "The Fantastic Flying Books of Mr. Morris Lessmore", 
+    "awards": 1, 
+    "year": 2011
+  }, 
+  {
+    "nominations": 1, 
+    "title": "The Shore", 
+    "awards": 1, 
+    "year": 2011
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Undefeated", 
+    "awards": 1, 
+    "year": 2011
+  }, 
+  {
+    "nominations": 1, 
+    "title": "The Muppets", 
+    "awards": 1, 
+    "year": 2011
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Saving Face", 
+    "awards": 1, 
+    "year": 2011
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Beginners", 
+    "awards": 1, 
+    "year": 2011
+  }, 
+  {
+    "nominations": 1, 
+    "title": "Rango", 
+    "awards": 1, 
+    "year": 2011
+  }
+]

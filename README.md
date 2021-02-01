@@ -17,7 +17,8 @@ There are also stand-alone scripts, which demonstrates a simple principle.
 * [Requests](https://requests.readthedocs.io/en/master/ "Documentation"): Python Library for sending/recieving http requests.
 
 ## TODO
-* Tackle [Oscar Winning Films](https://scrapethissite.com/pages/ajax-javascript/)
+* Try Out Scrapy
+* Learn more on Asynchronous Web Scraping
 
 
 
